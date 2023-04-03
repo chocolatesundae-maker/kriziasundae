@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Get to know me more click this: https://kriziasundae.github.io/aboutme_/
+
 <!--
 **kriziasundae/kriziasundae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
